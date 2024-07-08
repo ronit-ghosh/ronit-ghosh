@@ -21,9 +21,9 @@
 
 
 ## Tech Stack
-<pre>
-<img src="assets/react.png" width="20px" height="20px"/>  <img src="assets/js.png" width="20px" height="20px"/>  <img src="assets/tailwindcss.png" width="20px" height="20px"/>
-</pre>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
+  </a>
 
 ## Contact
 
