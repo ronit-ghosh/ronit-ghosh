@@ -3,7 +3,7 @@
 
 ##  About Me
 
- <pre style="font-family: verdana">       I'm a web development newbie, constantly refreshing my browser to see my code come to life (and sometimes pulling my hair out when it doesn't!). I'm passionate about creating beautiful and functional websites, and I'm always up for a challenge.</pre>
+ <p style="font-family: verdana">I'm a web development newbie, constantly refreshing my browser to see my code come to life (and sometimes pulling my hair out when it doesn't!). I'm passionate about creating beautiful and functional websites, and I'm always up for a challenge.</p>
 
 
 ##  Links
