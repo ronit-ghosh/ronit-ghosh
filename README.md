@@ -19,9 +19,9 @@
 ## Tech Stack
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,react,tailwind,mongo" />
   </a>
 
 ## Contact
 
-If you have any feedback, please reach out to us at work.ronitghosh@gmail.com
+If you have any feedback, please reach out to me at work.ronitghosh@gmail.com
