@@ -1,8 +1,7 @@
 <a href="#" target="_blank"> <img src="assets/readme-header.png" /> </a>
+## Tech Stack
 
-## About Me
-
- <p style="font-family: verdana">I'm a web development newbie, constantly refreshing my browser to see my code come to life (and sometimes pulling my hair out when it doesn't!). I'm passionate about creating beautiful and functional websites, and I'm always up for a challenge.</p>
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,express,react,tailwind,prisma,postgresql,mongo" />
 
 ## Links
 
@@ -16,10 +15,9 @@
   <img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
 </a>
 
-## Tech Stack
+## About Me
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,express,react,tailwind,prisma,postgresql,mongo" />
-
+ <p style="font-family: verdana">I'm a web development newbie, constantly refreshing my browser to see my code come to life (and sometimes pulling my hair out when it doesn't!). I'm passionate about creating beautiful and functional websites, and I'm always up for a challenge.</p>
 
 ## Contact
 
