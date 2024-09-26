@@ -18,7 +18,7 @@
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,tailwind,prisma,postgresql,mongo" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,nextjs,express,react,tailwind,prisma,postgresql,mongo" />
 
 
 ## Contact
