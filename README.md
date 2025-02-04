@@ -44,10 +44,11 @@ alt="Hello, This is Ronit" /></a>
 ### Programming Language
 [![Github](https://skillicons.dev/icons?i=typescript,javascript,cpp,php&theme=dark)](https://github.com/ronit-ghosh)
 ### Frameworks
-[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb&theme=dark)](https://github.com/ronit-ghosh)
-[![Frontend Development](https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,workers,prisma,postgres,mongodb,firebase&theme=dark)](https://github.com/ronit-ghosh) 
+[![Frontend Development](https://skillicons.dev/icons?i=nextjs,react&theme=dark)](https://github.com/ronit-ghosh) <img width="45" src="assets/recoil-js.svg"/>
+[![Frontend Development](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/ronit-ghosh)
 ### Other Tools
-[![Other Tools](https://skillicons.dev/icons?i=docker,postman,aws,git,github,vscode,figma,ps&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=docker,postman,aws,cloudflare,vite,git,github,npm,pnpm,vscode,figma,ps&theme=dark)](https://github.com/ronit-ghosh)
 
 
 # Social Links
