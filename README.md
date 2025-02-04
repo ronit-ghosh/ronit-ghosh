@@ -41,14 +41,37 @@ src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=120&paus
 alt="Hello, This is Ronit" /></a>
 
 # Tech Stack & Tools
-### Programming Language
-[![Github](https://skillicons.dev/icons?i=typescript,javascript,cpp,php&theme=dark)](https://github.com/ronit-ghosh)
+### Programming Languages
+[![Language](https://skillicons.dev/icons?i=typescript&theme=dark)](https://github.com/ronit-ghosh)
+[![Language](https://skillicons.dev/icons?i=javascript&theme=dark)](https://github.com/ronit-ghosh)
+[![Language](https://skillicons.dev/icons?i=cpp&theme=dark)](https://github.com/ronit-ghosh)
+[![Language](https://skillicons.dev/icons?i=php&theme=dark)](https://github.com/ronit-ghosh)
+
 ### Frameworks
-[![Backend Development](https://skillicons.dev/icons?i=nodejs,express,workers,prisma,postgres,mongodb,firebase&theme=dark)](https://github.com/ronit-ghosh) 
-[![Frontend Development](https://skillicons.dev/icons?i=nextjs,react&theme=dark)](https://github.com/ronit-ghosh) <img width="45" src="assets/recoil-js.svg"/>
+[![Backend Development](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://skillicons.dev/icons?i=express&theme=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://skillicons.dev/icons?i=workers&theme=dark)](https://github.com/ronit-ghosh) <img width="52" src="assets/zod.svg"/>
+[![Backend Development](https://skillicons.dev/icons?i=prisma&theme=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://skillicons.dev/icons?i=postgres&theme=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://github.com/ronit-ghosh)
+[![Backend Development](https://skillicons.dev/icons?i=firebase&theme=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://github.com/ronit-ghosh)
+[![Frontend Development](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/ronit-ghosh) <img width="45" src="assets/recoil.svg"/>
 [![Frontend Development](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/ronit-ghosh)
+
 ### Other Tools
-[![Other Tools](https://skillicons.dev/icons?i=docker,postman,aws,cloudflare,vite,git,github,npm,pnpm,vscode,figma,ps&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=docker&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=postman&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=aws&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=cloudflare&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=vite&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=git&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=npm&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=pnpm&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=figma&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=ps&theme=dark)](https://github.com/ronit-ghosh)
 
 
 # Social Links
