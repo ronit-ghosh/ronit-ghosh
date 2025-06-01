@@ -42,21 +42,22 @@ alt="Hello, This is Ronit" /></a>
 
 # Tech Stack & Tools
 ### Programming Languages
-[![Language](https://skillicons.dev/icons?i=typescript&theme=dark)](https://github.com/ronit-ghosh)
-[![Language](https://skillicons.dev/icons?i=javascript&theme=dark)](https://github.com/ronit-ghosh)
-[![Language](https://skillicons.dev/icons?i=cpp&theme=dark)](https://github.com/ronit-ghosh)
-[![Language](https://skillicons.dev/icons?i=php&theme=dark)](https://github.com/ronit-ghosh)
+[![Language](https://skillicons.dev/icons?i=typescript&theme=dark)](https://www.typescriptlang.org/)
+[![Language](https://skillicons.dev/icons?i=javascript&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Language](https://skillicons.dev/icons?i=cpp&theme=dark)](https://isocpp.org/)
+[![Language](https://skillicons.dev/icons?i=php&theme=dark)](https://www.php.net/)
 
 ### Frameworks
-[![Backend Development](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://github.com/ronit-ghosh)
-[![Backend Development](https://skillicons.dev/icons?i=express&theme=dark)](https://github.com/ronit-ghosh)
-[![Backend Development](https://skillicons.dev/icons?i=workers&theme=dark)](https://github.com/ronit-ghosh) <img width="52" src="assets/zod.svg"/>
+[![Backend Development](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org/en)
+[![Backend Development](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
+[![Backend Development](https://skillicons.dev/icons?i=workers&theme=dark)](https://github.com/ronit-ghosh) <img width="52" src="assets/zod.png"/>
 [![Backend Development](https://skillicons.dev/icons?i=prisma&theme=dark)](https://github.com/ronit-ghosh)
 [![Backend Development](https://skillicons.dev/icons?i=postgres&theme=dark)](https://github.com/ronit-ghosh)
 [![Backend Development](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://github.com/ronit-ghosh)
 [![Backend Development](https://skillicons.dev/icons?i=firebase&theme=dark)](https://github.com/ronit-ghosh)
 [![Frontend Development](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://github.com/ronit-ghosh)
 [![Frontend Development](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/ronit-ghosh) <img width="45" src="assets/recoil.svg"/>
+[![Frontend Development](https://skillicons.dev/icons?i=react&theme=dark)](https://github.com/ronit-ghosh) <img width="45" src="assets/zustand.png"/>
 [![Frontend Development](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://github.com/ronit-ghosh)
 
 ### Other Tools
@@ -67,22 +68,22 @@ alt="Hello, This is Ronit" /></a>
 [![Other Tools](https://skillicons.dev/icons?i=vite&theme=dark)](https://github.com/ronit-ghosh)
 [![Other Tools](https://skillicons.dev/icons?i=git&theme=dark)](https://github.com/ronit-ghosh)
 [![Other Tools](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=bun&theme=dark)](https://github.com/ronit-ghosh)
 [![Other Tools](https://skillicons.dev/icons?i=npm&theme=dark)](https://github.com/ronit-ghosh)
-[![Other Tools](https://skillicons.dev/icons?i=pnpm&theme=dark)](https://github.com/ronit-ghosh)
+[![Other Tools](https://skillicons.dev/icons?i=pnpm&theme=dark)](https://github.com/ronit-ghosh) <img width="45" src="assets/cursor.png"/>
 [![Other Tools](https://skillicons.dev/icons?i=vscode&theme=dark)](https://github.com/ronit-ghosh)
 [![Other Tools](https://skillicons.dev/icons?i=figma&theme=dark)](https://github.com/ronit-ghosh)
-[![Other Tools](https://skillicons.dev/icons?i=ps&theme=dark)](https://github.com/ronit-ghosh)
 
 
 # Social Links
 
-<a href="https://ronit-ghosh.vercel.app/" target="_blank">
+<a href="https://ronitghosh.site/" target="_blank">
   <img src="https://img.shields.io/badge/my_portfolio-0d1117?style=for-the-badge&logo=&logoColor=white" alt="portfolio">
 </a>
 <a href="https://www.linkedin.com/in/ronit-ghosh-7b10972a2/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=&logoColor=white" alt="linkedin">
 </a>
-<a href="https://twitter.com/ronit__ghosh" target="_blank">
+<a href="https://twitter.com/ronntwt" target="_blank">
   <img src="https://img.shields.io/badge/twitter-0d1117?style=for-the-badge&logo=&logoColor=white" alt="twitter">
 </a>
 <a href="mailto:work.ronitghosh@gmail.com" target="_blank">
